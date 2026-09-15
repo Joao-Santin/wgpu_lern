@@ -1,0 +1,48 @@
+══════════════════════════════════════
+         SHADER CHEAT SHEET
+══════════════════════════════════════
+
+COORDENADAS
+uv       → posição normalizada 0..1
+p        → posição matemática
+x,y      → coordenadas
+r,g,b    → cores
+
+VETORES
+vec2     → 2 números
+vec3     → 3 números
+vec4     → 4 números
+
+MATEMÁTICA
+sin      → onda
+cos      → onda deslocada
+tan      → tangente / explosiva
+abs      → valor absoluto
+sqrt     → raiz
+pow      → potência
+
+FORMA
+length   → tamanho/distância do vetor
+distance → distância A → B
+normalize→ transforma vetor em tamanho 1
+dot      → relação entre vetores
+
+INTERPOLAÇÃO
+mix      → A → B
+clamp    → limita valor
+smoothstep → transição suave
+
+NÚMEROS
+floor    → arredonda para baixo
+ceil     → arredonda para cima
+fract    → parte decimal
+
+TEMPO
+t        → tempo
+sin(t)   → movimento oscilante
+
+CORES
+vec3(r,g,b)
+vec4(r,g,b,a)
+
+══════════════════════════════════════
